@@ -30,3 +30,8 @@ Los datos crudos que se usaron durante el EDA y preprocesamiento se pueden obten
 - [MiBici  - Sistema público de bicicletas](https://www.mibici.net/es/datos-abiertos/)
 - [SEMADET - Datos sobre calidad del aire](https://datos.jalisco.gob.mx/dataset/bases-de-datos-historicas-de-la-calidad-del-aire)
 
+### Boston
+- [Bluebikes  - Sistema público de bicicletas](https://s3.amazonaws.com/hubway-data/index.html)
+- [AQS API - Datos sobre calidad del aire](https://aqicn.org/data-platform/register/)
+
+[Para extraer los datos de calidad del aire es necesario seguir esta guía](https://aqs.epa.gov/aqsweb/documents/data_api.html#signup) 
