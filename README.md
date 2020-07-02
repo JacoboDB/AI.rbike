@@ -1,10 +1,10 @@
 # AI.rbike
-Proyecto realizado durante la segunda generacion de Saturdays.AI Guadalajara
+Proyecto realizado durante la segunda edición de Saturdays.AI Guadalajara
 por el equipo Turquesa.
 
 ## Integrantes del Equipo
 - Raul Garcia Rojas
-- Raul Garcia Rojas
+- Jacobo Domínguez Balderrama
 - Norma Adriana Tapia Muñoz
 - Kimberly Celeste Uribe López
 - Edwin Efrain Jimenez Lepe (mentor)
@@ -25,4 +25,4 @@ Los datos crudos que se usaron durante el EDA y preprocesamiento se pueden obten
 - [Citibike - Sistema público de bicicletas](https://s3.amazonaws.com/tripdata/index.html)
 - [OpenAQ - Datos sobre calidad del aire](http://openaq-data.s3.amazonaws.com/index.html) 
 
-[Para extraer los datos da calidad del aire es necesario seguir esta guía] (https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd)
+[Para extraer los datos de calidad del aire es necesario seguir esta guía](https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd)
