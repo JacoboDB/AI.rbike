@@ -26,3 +26,7 @@ Los datos crudos que se usaron durante el EDA y preprocesamiento se pueden obten
 - [OpenAQ - Datos sobre calidad del aire](http://openaq-data.s3.amazonaws.com/index.html) 
 
 [Para extraer los datos de calidad del aire es necesario seguir esta guía](https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd)
+### Guadalajara
+- [MiBici  - Sistema público de bicicletas](https://www.mibici.net/es/datos-abiertos/)
+- [SEMADET - Datos sobre calidad del aire](https://datos.jalisco.gob.mx/dataset/bases-de-datos-historicas-de-la-calidad-del-aire)
+
