@@ -11,6 +11,8 @@ por el equipo Turquesa.
 
 El proceso y la experiencia ha sido documentada en Medium
 [Parte 1](https://medium.com/@kimberlyuribe/ai-rbike-renovar-el-enfoque-del-uso-de-bicicleta-a-través-del-análisis-de-datos-y-su-impacto-en-aff584116146)
+[Parte 2](https://medium.com/saturdays-ai/ai-rbike-renovar-el-enfoque-del-uso-de-bicicleta-a-través-del-análisis-de-datos-y-su-impacto-en-68c64f547343)
+
 
 ## Descripción
 Utilizando datos abiertos del sistema MiBici + calidad de aire de la ZMG, se hace un
